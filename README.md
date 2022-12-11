@@ -13,11 +13,4 @@ To extract, I created script in python [get_websummit.py](get_test.py). So I sto
 
 The total data collected was 4,378 tweets, which surprised me because I expected a lot more. Of the total number of tweets published, there were a total of 2,641 different users. When checking the distribution of number of published tweets we noticed that during the 5 days analyzed. October 31, a Monday, had a lower number of tweets published as well as on November 3, Thursday, the penultimate day of the event had a higher number of tweets published.
 
-
-![Tweets per day](https://plotly.com/~leonardojs/1/)
-
-
-
-
- <iframe width="900" height="800" frameborder="0" scrolling="no" src="https://plotly.com/~leonardojs/1/"></iframe>
-
+I wrote medium article on [Medium](https://medium.com/@leonardojs/an%C3%A1lise-dos-tweets-sobre-web-summit-2022-c0abea9b2057). Sorry I wrote this arctile in Portuguese. 
