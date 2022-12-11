@@ -19,5 +19,5 @@ The total data collected was 4,378 tweets, which surprised me because I expected
 
 
 
- <iframe width="900" height="800" frameborder="0" scrolling="no" src="//plotly.com/~leonardojs/1.embed"></iframe>
+ <iframe width="900" height="800" frameborder="0" scrolling="no" src="https://plotly.com/~leonardojs/1/"></iframe>
 
