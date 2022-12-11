@@ -15,3 +15,9 @@ The total data collected was 4,378 tweets, which surprised me because I expected
 
 
 ![Tweets per day](https://plotly.com/~leonardojs/1/)
+
+
+
+
+ <iframe width="900" height="800" frameborder="0" scrolling="no" src="//plotly.com/~leonardojs/1.embed"></iframe>
+
